@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlickerApp/static/css/main.4579c6b0.css",
+    "main.js": "/FlickerApp/static/js/main.a9df3d7f.js",
+    "static/js/787.a84407b8.chunk.js": "/FlickerApp/static/js/787.a84407b8.chunk.js",
+    "index.html": "/FlickerApp/index.html",
+    "main.4579c6b0.css.map": "/FlickerApp/static/css/main.4579c6b0.css.map",
+    "main.a9df3d7f.js.map": "/FlickerApp/static/js/main.a9df3d7f.js.map",
+    "787.a84407b8.chunk.js.map": "/FlickerApp/static/js/787.a84407b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4579c6b0.css",
+    "static/js/main.a9df3d7f.js"
+  ]
+}
